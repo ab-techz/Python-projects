@@ -1,5 +1,4 @@
 # Python-projects
-Some python projects that I've made.
 
 
 **These projects cover the following aspects :**
