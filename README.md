@@ -1,8 +1,8 @@
 # Python-projects
-Here are Some python projects that I've made on Jupyter notebook. 
+Some python projects that I've made.
 
 
-**These projects cover topics like:**
+**These projects cover the following aspects :**
 
 -Exploratory Data analysis with Pandas.
 
